@@ -1,5 +1,6 @@
 # Stone-Paper-Scissor-Game
-![image](https://user-images.githubusercontent.com/67956852/205457490-ac50e181-0bdc-4d2a-81f2-e7b899cbe4c0.png)
+![image](https://user-images.githubusercontent.com/67956852/205457528-bf2152f7-e529-433d-8f0f-ee636d12295a.png)
+
 
 
 The user can play rock/paper/scissors against the computer.
