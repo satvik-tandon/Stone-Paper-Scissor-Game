@@ -1,5 +1,5 @@
 # Stone-Paper-Scissor-Game
-![image](https://user-images.githubusercontent.com/67956852/205457528-bf2152f7-e529-433d-8f0f-ee636d12295a.png)
+![image](https://user-images.githubusercontent.com/67956852/205457548-322d8f32-5cd6-43ba-a6fe-b4f89c65f709.png)
 
 
 
