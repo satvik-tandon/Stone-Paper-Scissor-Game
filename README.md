@@ -13,3 +13,8 @@ A simultaneous, zero-sum game, it has three possible outcomes: a draw, a win or 
 3. Paper beats rock, but loses to scissors.
 
 ## Installation
+Clone this repository.
+```
+git clone https://github.com/satvik-tandon/Stone-Paper-Scissor-Game
+```
+In Visual Studio Code, install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Extension and start it up
